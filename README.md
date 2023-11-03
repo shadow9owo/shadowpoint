@@ -5,7 +5,7 @@ Requirements:
 * .net 4.0
 
 Features:
-* loads a slide
+* loads a presentation
 
 Todo:
 * add newline support
