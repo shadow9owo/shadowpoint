@@ -57,21 +57,3 @@
     </div>
 </body>
 </html>
-<style>
-html {
-    height: 100%;
-}
-
-body {
-    background: rgb(30, 30, 30);
-    background: linear-gradient(0deg, rgba(30, 30, 30, 1) 0%, rgba(59, 59, 59, 1) 58%, rgba(43, 43, 43, 1) 100%);
-    background-attachment: fixed;
-    background-size: cover;
-    margin: 0;
-    height: 100%;
-}
-h1,h2,h3,h4,h5,h6,p,a {
-    font-family: 'Roboto', sans-serif;
-    color: rgb(255, 255, 255);
-}
-</style>
