@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZ6d4/+wbE20u+FstucVFBsjzYjBOi6nQbj+C4tParCDBB7N8EhtRyF5Z2h5A/FuDOP8gsSmDmO5PxBaY890Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shadowdev\\source\\repos\\shadowpoint\\shadowpoint\\shadowpoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shadowdev\\.nuget\\packages\\dotnetzip\\1.16.0\\dotnetzip.1.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}
