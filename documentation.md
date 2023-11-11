@@ -10,6 +10,7 @@
             <h1>how to create a presentation in shadowpoint</h1>
             <p>- created by shadowdev -</p>
             <strong><p>if you want to find something specific use control + f</p></strong>
+            <p>may be outdated please check the source for more info</p>
             <p>cof stands for config btw</p>
             <br>
             <h1>how to create a presentation directory</h1>
