@@ -8,4 +8,4 @@ Features:
 * loads a presentation (press space to move to next slide)
 
 Todo:
-* add newline support
+* add newline support (note from future self "keep dreaming about adding this lol")
