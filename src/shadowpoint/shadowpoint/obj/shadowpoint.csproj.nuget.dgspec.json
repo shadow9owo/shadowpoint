@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shadowdev\\source\\repos\\shadowpoint\\shadowpoint\\shadowpoint.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shadowdev\\source\\repos\\shadowpoint\\shadowpoint\\shadowpoint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shadowdev\\source\\repos\\shadowpoint\\shadowpoint\\shadowpoint.csproj",
+        "projectName": "shadowpoint",
+        "projectPath": "C:\\Users\\shadowdev\\source\\repos\\shadowpoint\\shadowpoint\\shadowpoint.csproj",
+        "packagesPath": "C:\\Users\\shadowdev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shadowdev\\source\\repos\\shadowpoint\\shadowpoint\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shadowdev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "dependencies": {
+            "DotNetZip": {
+              "target": "Package",
+              "version": "[1.16.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

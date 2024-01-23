@@ -1,0 +1,14 @@
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\bin\Debug\shadowpoint.exe
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\bin\Debug\shadowpoint.pdb
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\obj\Debug\shadowpoint.csproj.AssemblyReference.cache
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\obj\Debug\shadowpoint.Form1.resources
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\obj\Debug\shadowpoint.Properties.Resources.resources
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\obj\Debug\shadowpoint.csproj.GenerateResource.cache
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\obj\Debug\shadowpoint.csproj.CoreCompileInputs.cache
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\obj\Debug\shadowpoint.exe
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\obj\Debug\shadowpoint.pdb
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\obj\Debug\shadowpoint.Form2.resources
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\obj\Debug\shadowpoint.Form3.resources
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\bin\Debug\DotNetZip.dll
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\bin\Debug\DotNetZip.pdb
+C:\Users\shadowdev\source\repos\shadowpoint\shadowpoint\obj\Debug\shadowpoint.csproj.CopyComplete
